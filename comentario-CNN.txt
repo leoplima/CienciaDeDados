@@ -1,0 +1,9 @@
+comentários sobre CNN
+
+- 1-Operador Convolucional (Aplicação da função relu para tirar valores negativos.)
+- 2-Pooling (Reduzir a dimencionalidade, diminuir o oferfitting), usar o "maxpooling".
+- 3-Flattening (transforma o formato de matriz para o formato de vetor para aplicar
+a rede neural densa)
+- Segue o normal de rede neural.
+	- Se a classe de saida for 1 - sigmoide
+	- Se for mais de 2 classes na camada de saída, função softmax.
